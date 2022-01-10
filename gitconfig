@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = david.mcg.manley@gmail.com
+	name = David McGroarty Manley
